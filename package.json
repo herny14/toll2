@@ -2,9 +2,9 @@
   "name": "hello-next",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next",
+    "dev": "node start.js",
     "build": "next build",
-    "start": "next start"
+    "start": "node start.js"
   },
   "license": "ISC",
   "dependencies": {
